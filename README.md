@@ -1,5 +1,4 @@
-### Me when My code doesn't work
-<img width="498" height="281" alt="luffy-bruh" src="https://github.com/user-attachments/assets/b15babb0-40eb-4531-baea-ecc5432da5cc" />
+<img width="640" height="510" alt="zoro" src="https://github.com/user-attachments/assets/ddcfe4fc-d599-42ed-a339-2c81f65857bd" />
 
 
 ### Programming Languages 
@@ -17,8 +16,12 @@
 ### IDE's
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs-code-logo"> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino-ide-logo">
 
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yhsptraa/yhsptraa/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yhsptraa/yhsptraa/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yhsptraa/yhsptraa/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+<img width="498" height="281" alt="jujutsushenanigans" src="https://github.com/user-attachments/assets/7b243d9c-9232-48f6-9a6b-99f29fc9c5b7" />
+
