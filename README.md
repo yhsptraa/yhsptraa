@@ -1,5 +1,6 @@
 ### Me when My code doesn't work
-<div class="tenor-gif-embed" data-postid="8536513111676766986" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/luffy-bruh-nose-nah-one-piece-gif-8536513111676766986">Luffy Bruh GIF</a>from <a href="https://tenor.com/search/luffy-gifs">Luffy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img width="498" height="281" alt="luffy-bruh" src="https://github.com/user-attachments/assets/b15babb0-40eb-4531-baea-ecc5432da5cc" />
+
 
 ### Programming Languages 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo">
