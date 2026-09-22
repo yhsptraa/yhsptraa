@@ -1,6 +1,3 @@
-<img width="100%" alt="zoro" src="https://github.com/user-attachments/assets/ddcfe4fc-d599-42ed-a339-2c81f65857bd" />
-
-
 ### Programming Languages 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo">
 
@@ -22,6 +19,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yhsptraa/yhsptraa/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yhsptraa/yhsptraa/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-<img width="100%"  alt="jujutsushenanigans" src="https://github.com/user-attachments/assets/7b243d9c-9232-48f6-9a6b-99f29fc9c5b7" />
 
